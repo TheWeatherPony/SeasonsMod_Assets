@@ -1,0 +1,1 @@
+The Seasons Watch's animation code is completed, but the texturing is not perfect. The first (top) frame is the beginning of Spring and the last is the end of Winter. The number of frames between these two points does not need to be the same as the default one - the code will compensate as needed. The animation file (SeasonWatch.png.mcmeta) does not need editing.
