@@ -1,0 +1,52 @@
+season.spring=Spring
+season.summer=Summer
+season.autumn=Autumn
+season.winter=Winter
+
+seasons.info.WeatherPony=The_WeatherPony
+
+seasons.version.SunnyDay=Sunny Day
+seasons.version.Overshadowed=Overshadowed
+seasons.version.LesserLight=Lesser Light
+seasons.version.LongEnough=Long Enough
+seasons.version.ComeAround=Come Around
+seasons.version.Plead=Plead
+seasons.version.Threaten=Threaten
+seasons.version.KnowTheWonder=Know the Wonder
+seasons.version.EternalLullaby=Eternal Lullaby
+seasons.version.DawnsInDarkness=Dawns in Darkness
+seasons.version.Nighttime=Nighttime
+
+seasons.version.Days=Days
+seasons.version.Years=Years
+seasons.version.Centuries=Centuries
+
+achievement.heardOfSeasons=Heard of Seasons
+achievement.heardOfSeasons.desc=You heard about The Seasons Mod!
+achievement.installedSeasons=Installed Seasons
+achievement.installedSeasons.desc=You installed The Seasons Mod!
+
+achievement.seeSpring=See Spring
+achievement.seeSpring.desc=You saw Spring!
+achievement.seeSummer=See Summer
+achievement.seeSummer.desc=You saw Summer!
+achievement.seeAutumn=See Autumn
+achievement.seeAutumn.desc=You saw Autumn!
+achievement.seeWinter=See Winter
+achievement.seeWinter.desc=You saw Winter!
+
+item.seasonwatch=Season Watch
+item.thermometer=Thermometer
+
+season.noSeasonDisplay=This dimension has seasons disabled
+item.seasonwatch.display=Current Season: &season& - Day: &day1& (&day2& days left)
+item.thermometer.display=The thermometer reads &temperature&%
+item.seasonwatch.displayNot=You can't read it, it's spinning very fast!
+item.thermometer.displayNot=The thermometer is acting strangely. You can't read it...
+
+item.WIP=WIP item
+item.WIP.info=4
+item.WIP.info.0=A work in progress item.
+item.WIP.info.1=Might as well chuck it...
+item.WIP.info.2=Maybe someone else could
+item.WIP.info.3=have a use for it?
