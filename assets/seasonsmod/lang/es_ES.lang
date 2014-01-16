@@ -1,0 +1,56 @@
+﻿seasons.thisLanguageIs=Spanish
+
+season.spring=la primavera
+season.summer=el verano
+season.autumn=el otoño
+season.winter=el invierno
+
+seasons.info.WeatherPony=El_MeteorológicaPoni
+seasons.info.SeasonsMod=Las Temporadas Modificación
+
+seasons.version.SunnyDay=Día Soleado
+seasons.version.Overshadowed=Eclipsado
+seasons.version.LesserLight=Menos Importante Luz
+seasons.version.LongEnough=Tiempo Suficiente
+seasons.version.ComeAround=Come Around
+seasons.version.Plead=Alegar
+seasons.version.Threaten=Amenazar
+seasons.version.KnowTheWonder=Conozca la Maravilla
+seasons.version.EternalLullaby=Eterno Lullaby
+seasons.version.DawnsInDarkness=Amanecer en la Oscuridad
+seasons.version.Nighttime=Noche
+
+seasons.version.Days=Días
+seasons.version.Years=Años
+seasons.version.Centuries=Siglos
+
+achievement.heardOfSeasons=Oído hablar de Seasons
+achievement.heardOfSeasons.desc=Has oído hablar de The Seasons Mod! 
+achievement.installedSeasons=Seasons Instaladas
+achievement.installedSeasons.desc=Instaló The Seasons Mod!
+
+achievement.seeSpring=Ver Primavera
+achievement.seeSpring.desc=Usted vio la primavera!
+achievement.seeSummer=Ver Verano
+achievement.seeSummer.desc=Usted vio el verano!
+achievement.seeAutumn=Ver Otoño
+achievement.seeAutumn.desc=Usted vio el otoño!
+achievement.seeWinter=Ver Invierno
+achievement.seeWinter.desc=Usted vio el invierno!
+
+item.seasonwatch=Reloj de Temporadas
+item.thermometer=Termómetro
+
+season.noSeasonDisplay=Esta dimensión tiene temporadas desactivadas.
+item.seasonwatch.display=Hoy es el &day1& de &season& (&day2& días para que termine)
+item.thermometer.display=El termómetro marca &temperature&%
+item.seasonwatch.displayNot=Usted no puede leerla, porque está girando muy rápido!
+item.thermometer.displayNot=El termómetro está actuando de manera extraña. No se puede leer ...
+
+item.WIP=WIP(Trabajos en Curso) Artículo
+item.WIP.info=5
+item.WIP.info.0=Este artículo es un trabajo
+item.WIP.info.1=en progreso. Es lo mismo que
+item.WIP.info.2=desprenderse de ella...
+item.WIP.info.3=Tal vez alguien más
+item.WIP.info.4=le gustaría tenerlo?

@@ -1,0 +1,55 @@
+﻿seasons.thisLanguageIs=German
+
+season.spring=Frühling
+season.summer=Sommer
+season.autumn=Herbst
+season.winter=Winter
+
+seasons.info.WeatherPony=Das_WetterHengstfohlen
+seasons.info.SeasonsMod=Die Jahreszeiten Modifikation
+
+seasons.version.SunnyDay=Sonnigen Tag
+seasons.version.Overshadowed=Überschattet
+seasons.version.LesserLight=Lesser Licht
+seasons.version.LongEnough=Genug Zeit
+seasons.version.ComeAround=Vorbeikommen/Meinung ändern
+seasons.version.Plead=Flehen
+seasons.version.Threaten=Bedrohen
+seasons.version.KnowTheWonder=Kennen Sie die Wonder
+seasons.version.EternalLullaby=Ewige Wiegenlied
+seasons.version.DawnsInDarkness=Dämmerung in Dunkelheit
+seasons.version.Nighttime=Nacht
+
+seasons.version.Days=Tage
+seasons.version.Years=Jahre
+seasons.version.Centuries=Jahrhunderte
+
+achievement.heardOfSeasons=Gehört zu Seasons
+achievement.heardOfSeasons.desc=Sie über The Seasons Mod gehört!
+achievement.installedSeasons=Installierte Seasons
+achievement.installedSeasons.desc=Sie haben The Seasons Mod installiert!
+
+achievement.seeSpring=Erleben Frühling
+achievement.seeSpring.desc=Sie erfahren Frühling!
+achievement.seeSummer=Erleben 
+achievement.seeSummer.desc=Sie erfahren Sommer!
+achievement.seeAutumn=Erleben 
+achievement.seeAutumn.desc=Sie erfahren Herbst!
+achievement.seeWinter=Erleben 
+achievement.seeWinter.desc=Sie erfahren Winter!
+
+item.seasonwatch=Saisonale Uhr
+item.thermometer=Thermometer
+
+season.noSeasonDisplay=Diese Welt hat Jahreszeiten deaktiviert
+item.seasonwatch.display=Saison: &season& - Aktuelle Tag: &day1& (Noch &day2& tage)
+item.thermometer.display=Das Thermometer zeigt &temperature&%
+item.seasonwatch.displayNot=Sie können nicht lesen, weil es zu schnell dreht durch!
+item.thermometer.displayNot=Das Thermometer ist seltsam wirken. Sie können nicht lesen...
+
+item.WIP=Objekt in Arbeit
+item.WIP.info=4
+item.WIP.info.0=Dieses Objekt ist in Arbeit. 
+item.WIP.info.1=Genauso gut könnte man verwerfen.
+item.WIP.info.2=Vielleicht hat jemand anderes 
+item.WIP.info.3=möchte es haben?
