@@ -1,0 +1,55 @@
+seasons.thisLanguageIs=Nederlands
+
+season.spring=Voorjaar
+season.summer=Zomer
+season.autumn=Herfst
+season.winter=Winter
+
+seasons.info.WeatherPony=De_WeerPony
+seasons.info.SeasonsMod=De Seizoenen Mod
+
+seasons.version.SunnyDay=Sonnige Dag
+seasons.version.Overshadowed=Overschaduwd
+seasons.version.LesserLight=Minder Licht
+seasons.version.LongEnough=Lang Genoeg
+seasons.version.ComeAround=Kom Rond
+seasons.version.Plead=Pleiten
+seasons.version.Threaten=Bedrijgen
+seasons.version.KnowTheWonder=Ken het Wonder
+seasons.version.EternalLullaby=Eeuwig slaapliedje
+seasons.version.DawnsInDarkness=Daagt in het Donker
+seasons.version.Nighttime=Nacht
+
+seasons.version.Days=Dagen
+seasons.version.Years=Jaaren
+seasons.version.Centuries=Eeuwen
+
+achievement.heardOfSeasons=Gehoord van Seizoenen
+achievement.heardOfSeasons.desc=Je kent De Seizoenen Mod
+achievement.installedSeasons=Seizoenen Geinstalleerd
+achievement.installedSeasons.desc=Je hebt De Seizeonen Mod Geinstalleerd
+
+achievement.seeSpring=Zie het Voorjaar
+achievement.seeSpring.desc=Je ziet het Voorjaar!
+achievement.seeSummer=Zie de Zomer
+achievement.seeSummer.desc=Je ziet de Zomer!
+achievement.seeAutumn=Zie de Herfst
+achievement.seeAutumn.desc=Je ziet de Herfst!
+achievement.seeWinter=Zie de Winter
+achievement.seeWinter.desc=Je ziet de Winter!
+
+item.seasonwatch=Seizoenen Horloge
+item.thermometer=Thermometer
+
+season.noSeasonDisplay=Deze dimensie heeft seizoenen uitgeschakeld
+item.seasonwatch.display=Momenteel seizoen: &season& - Dag: &day1& (&day2& dagen durend)
+item.thermometer.display=De thermometer leest &temperature&%
+item.seasonwatch.displayNot=Je kan het niet lezen, het draait te hard!
+item.thermometer.displayNot=De thermometer gedraagd zich raar. Je kan het niet lezen...
+
+item.WIP=WIP Product
+item.WIP.info=4
+item.WIP.info.0=WIP Product.
+item.WIP.info.1=Kan net zo goed de brui aan...
+item.WIP.info.2=Misschien dat iemand anders zou
+item.WIP.info.3=een gebruik voor?
