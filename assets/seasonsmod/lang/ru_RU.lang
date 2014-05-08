@@ -1,0 +1,55 @@
+seasons.thisLanguageIs=Russian
+
+season.spring=Весна
+season.summer=Лето
+season.autumn=Осень
+season.winter=Зима
+
+seasons.info.WeatherPony=The_WeatherPony
+seasons.info.SeasonsMod=The Seasons Mod
+
+seasons.version.SunnyDay=Солнечный день
+seasons.version.Overshadowed=Омрачённый
+seasons.version.LesserLight=Малый свет
+seasons.version.LongEnough=Достаточно долго
+seasons.version.ComeAround=Приходите
+seasons.version.Plead=Мольба
+seasons.version.Threaten=Угроза
+seasons.version.KnowTheWonder=Познайте чудо
+seasons.version.EternalLullaby=Вечная колыбельная
+seasons.version.DawnsInDarkness=Рассветы в темноте
+seasons.version.Nighttime=Ночное время
+
+seasons.version.Days=Дни
+seasons.version.Years=Годы
+seasons.version.Centuries=Столетия
+
+achievement.heardOfSeasons=Слух о сезонах
+achievement.heardOfSeasons.desc=Вы услышали о The Seasons Mod!
+achievement.installedSeasons=Сезоны установлены
+achievement.installedSeasons.desc=Вы установили The Seasons Mod!
+
+achievement.seeSpring=Увидеть весну
+achievement.seeSpring.desc=Вы увидели весну!
+achievement.seeSummer=Увидеть лето
+achievement.seeSummer.desc=Вы увидели лето!
+achievement.seeAutumn=Увидеть осень
+achievement.seeAutumn.desc=Вы увидели осень!
+achievement.seeWinter=Увидеть зиму
+achievement.seeWinter.desc=Вы увидели зиму!
+
+item.seasonwatch=Сезонные часы
+item.thermometer=Термометр
+
+season.noSeasonDisplay=Сезоны отключены в этом измерении
+item.seasonwatch.display=Текущий сезон: &season& - День: &day1& (&day2& days left)
+item.thermometer.display=Термометр читает &temperature&%
+item.seasonwatch.displayNot=Вы не можете прочитать это, оно крутится слишком быстро!
+item.thermometer.displayNot=Термометр ведёт себя странно. Вы не можете прочитать это...
+
+item.WIP=WIP предмет
+item.WIP.info=4
+item.WIP.info.0=Предмет в разработке.
+item.WIP.info.1=Его также можно бросить...
+item.WIP.info.2=Может быть кто-нибудь сможет
+item.WIP.info.3=найти применение этому?
