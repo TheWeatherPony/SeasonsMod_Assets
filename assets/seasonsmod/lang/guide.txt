@@ -1,0 +1,79 @@
+seasons.thisLanguageIs=English
+	The language listed should be the English version of the language's name.
+
+	The four seasons' names provided here are only printed in one place, which is further below.
+season.spring=Spring
+season.summer=Summer
+season.autumn=Autumn
+season.winter=Winter
+
+seasons.info.WeatherPony=The_WeatherPony
+	If the language you are translating to is gender-based, please use the male version of words for my name, if possible.
+	My name is also hard-coded within the mod, so this is only so players can understand what the name means.
+seasons.info.SeasonsMod=The Seasons Mod
+
+seasons.version.SunnyDay=Sunny Day
+seasons.version.Overshadowed=Overshadowed
+seasons.version.LesserLight=Lesser Light
+	"Lesser" as in "not as important"
+seasons.version.LongEnough=Long Enough
+	"Long Enough" as a measure of time
+seasons.version.ComeAround=Come Around
+	"Coming around" to an idea; mental change
+seasons.version.Plead=Plead
+seasons.version.Threaten=Threaten
+seasons.version.KnowTheWonder=Know the Wonder
+seasons.version.EternalLullaby=Eternal Lullaby
+seasons.version.DawnsInDarkness=Dawns in Darkness
+seasons.version.Nighttime=Nighttime
+
+	These are refering to time
+seasons.version.Days=Days
+seasons.version.Years=Years
+seasons.version.Centuries=Centuries
+
+	From here down, please feel to be creative in your translation. 
+
+achievement.heardOfSeasons=Heard of Seasons
+achievement.heardOfSeasons.desc=You heard about The Seasons Mod!
+achievement.installedSeasons=Installed Seasons
+achievement.installedSeasons.desc=You installed The Seasons Mod!
+
+achievement.seeSpring=See Spring
+achievement.seeSpring.desc=You saw Spring!
+achievement.seeSummer=See Summer
+achievement.seeSummer.desc=You saw Summer!
+achievement.seeAutumn=See Autumn
+achievement.seeAutumn.desc=You saw Autumn!
+achievement.seeWinter=See Winter
+achievement.seeWinter.desc=You saw Winter!
+
+item.seasonwatch=Season Watch
+item.thermometer=Thermometer
+
+season.noSeasonDisplay=This dimension has seasons disabled
+	Technically, the Overworld, the Nether, the End, and any mod-added places are the same world.
+	If that doesn't carry over well, feel free to use "world" instead of "dimension."
+item.seasonwatch.display=Current Season: &season& - Day: &day1& (&day2& days left)
+	The "&season&" will be replaced with the current season, as you supplied it above.
+	The "&day1&" and "&day2&" will be replaced with their correct values.
+	You aren't required to have all three of the special values, but I request that you at least have "&season&".
+item.thermometer.display=The thermometer reads &temperature&%
+	The "&temperature&" will be replaced with the current temperature.
+item.seasonwatch.displayNot=You can't read it, it's spinning very fast!
+item.thermometer.displayNot=The thermometer is acting strangely. You can't read it...
+
+	This is for the 'Work in Progress' item.
+	It is possible to get the item, but it's not very common, and is almost worthless.
+item.WIP=WIP item
+item.WIP.info=4
+	The number indicates the number of lines used to print the description.
+	You can use as many or as few lines as you need, but lines that are too long may continue off the screen.
+	There is no automatic text-wrapping, so you get control over all of the linebreaks.
+
+	The first line used is line number "zero", and the last line is one less than the number you used above.
+	Add or remove as many lines as you need, but remember to change the number of lines used, above.
+item.WIP.info.0=A work in progress item.
+item.WIP.info.1=Might as well chuck it...
+item.WIP.info.2=Maybe someone else could
+item.WIP.info.3=have a use for it?
